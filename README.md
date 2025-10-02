@@ -18,3 +18,4 @@ E.g. `<username>.txt`
 Attach a screenshot of your **cloned repo in VS Code with the created file** to **Black Board**.
 
 Karl Hogander - Hogander21
+Ronni Evrensel - RonniEvrensel
